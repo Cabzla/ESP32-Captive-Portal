@@ -1,5 +1,5 @@
 """
-Author: [Your Name]
+Author: Cabzla
 
 This script creates a minimal captive portal for a WiFi hotspot, allowing users to connect to an ESP32 device and access a landing page where they can login to the WiFi network.
 
